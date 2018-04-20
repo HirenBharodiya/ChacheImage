@@ -1,0 +1,5 @@
+<App>
+    <JavaScript File="MainView.js" />
+
+    <Image File="{image}" Height="500" Width="200" Alignment="Center"/>
+</App>

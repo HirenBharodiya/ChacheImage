@@ -1,0 +1,17 @@
+{
+  "RootNamespace":"",
+  "Packages": [
+    "Fuse",
+    "FuseJS"
+  ],
+  "Includes": [
+    "*",
+    "**.jpg:Bundle",
+    "**.png:Bundle",
+    "**.js:Bundle",
+    "node_modules/striptags/src/striptags.js:Bundle",
+    "node_modules/moment/moment.js:Bundle",
+    "node_modules/js-sha1/build/sha1.min.js:Bundle"
+  ]
+}
+
